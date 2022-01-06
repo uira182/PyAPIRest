@@ -1,0 +1,18 @@
+
+!*/pdf/*
+!*/result/*
+!*/zip/*
+
+#SISTEMA
+*pycache*
+
+#DIRETORIOS
+.vscode
+
+#ARQUIVOS POR EXTENSÃO
+*.zip
+*.pdf
+*.xls
+*.xlsx
+*.csv
+*.db
